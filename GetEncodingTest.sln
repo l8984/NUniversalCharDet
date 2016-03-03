@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetEncodingTest", "GetEncodingTest\GetEncodingTest.csproj", "{61DF4314-2FE6-4BEC-80D1-0E2EB2F70A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUniversalCharDet", "NUniversalCharDet\NUniversalCharDet.csproj", "{D18F01CA-AF1A-476F-8667-52526A31B118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61DF4314-2FE6-4BEC-80D1-0E2EB2F70A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DF4314-2FE6-4BEC-80D1-0E2EB2F70A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DF4314-2FE6-4BEC-80D1-0E2EB2F70A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DF4314-2FE6-4BEC-80D1-0E2EB2F70A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D18F01CA-AF1A-476F-8667-52526A31B118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18F01CA-AF1A-476F-8667-52526A31B118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18F01CA-AF1A-476F-8667-52526A31B118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18F01CA-AF1A-476F-8667-52526A31B118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
